@@ -1,2 +1,12 @@
 name: Olivia Sabik
 markdown: kramdown
+
+# Themes are encouraged to use these universal variables
+# so be sure to set them if your theme uses them.
+#
+title : sabik site
+author :
+  name : Olivia Sabik
+  email : olivia.sabik@gmail.com
+  github : oliviasabik
+  twitter : oliviasabik
