@@ -10,3 +10,6 @@ author :
   email : olivia.sabik@gmail.com
   github : oliviasabik
   twitter : oliviasabik
+
+plugins:
+  - jekyll-sitemap
