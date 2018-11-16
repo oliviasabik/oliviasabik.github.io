@@ -13,3 +13,6 @@ author :
 
 plugins:
   - jekyll-sitemap
+
+production_url : http://oliviasabik.github.io/
+BASE_PATH : http://oliviaabik.github.io/
