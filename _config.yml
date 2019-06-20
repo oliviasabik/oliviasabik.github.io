@@ -16,3 +16,5 @@ plugins:
 
 production_url : http://oliviasabik.github.io/
 BASE_PATH : http://oliviaabik.github.io/
+
+theme: jekyll-theme-cayman
